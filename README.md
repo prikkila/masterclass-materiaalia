@@ -1,18 +1,16 @@
 # masterclass-materiaalia
-Tämä repository sisältää materiaalia masterclass-harjoitusta varten. Materiaali pohjautuu *CMS International Masterclasses* -verkkosivuun, ja on myös osittain peräisin sieltä.
+Tämä repository sisältää suomenkielisen oppilaille jaettavan ohjeen masterclass-harjoitusta varten. Materiaali pohjautuu *CMS International Masterclasses* -verkkosivuun.
 
-Tiedosto *cms-mc2017documentation.pdf* sisältää laajan dokumentaation masterclass-harjoituksesta. Tiedostossa *Oppilaanohje.pdf* on opiskelijoille jaettavaksi tai tulostettavaksi soveltuva ohje harjoitukseen. Tiedosto *Cheat_sheet.pdf* sisältää vinkkejä harjoitukseen. Myös sen voi jakaa opiskelijoiden tueksi.
+Oppilaille voi myös jakaa vinkkilistan osoitteesta [https://quarknet.i2u2.org/sites/default/files/cmscheat_wzh16_v0.pdf](https://quarknet.i2u2.org/sites/default/files/cmscheat_wzh16_v0.pdf).
+
+Masterclass-harjoituksen ohjeet ja kulku (englanniksi) löytyvät verkkosivulta [http://cms.physicsmasterclasses.org/pages/cmswz.html](http://cms.physicsmasterclasses.org/pages/cmswz.html).
+
+Opettajille tietoa löytyy myös Masterclass-dokumentaatiosta osoitteesta [http://tiny.cc/doc17cms](http://tiny.cc/doc17cms).
 
 ### Lähteet:
 
 *CMS International Masterclasses*
 - K. Cecire, T. McCauley, QuarkNet LHC fellows. Url: [http://cms.physicsmasterclasses.org/cms.html](http://cms.physicsmasterclasses.org/cms.html)
-
-*Cheat_sheet.pdf*
-- K. Cecire, T. McCauley, QuarkNet LHC fellows. Url: [http://quarknet.i2u2.org/sites/default/files/cmscheat_wzh16_v0.pdf](http://quarknet.i2u2.org/sites/default/files/cmscheat_wzh16_v0.pdf)
-
-*cms-mc2017documentation.pdf*
-- K. Cecire, T. McCauley, QuarkNet LHC fellows. Url: [http://tiny.cc/doc17cms](http://tiny.cc/doc17cms)
 
 *Oppilaanohje.pdf*
 - P. Rikkila.
